@@ -1,0 +1,58 @@
+html, body{
+    background-image: linear-gradient(#392657, #A178B9);
+    font-family: 'armata', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+nav a{
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu{
+    text-align: center;
+    word-spacing: 12vh;
+    padding-top: 3vh;
+    animation: quica ease 1.5s;
+}
+
+.about{
+    cursor: default;
+}
+
+
+main{
+    padding: 50px;
+    min-width: 280px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+main h1{
+    color: #A178B9;
+    font-size: 2.5em;
+    font-weight: normal;
+    border-bottom: 1px solid #A178B9;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+main p{
+    color: #fff;
+    text-align: start;
+    font-size: 1.5em;
+    margin: 15px 0px;
+    font-size: 1em;
+    text-indent: 30px;
+}
+article{
+    background-image: url(../image/Device-cloud---Copy@1-1440x820-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+}
+
+a{
+    color: lightgreen;
+}
